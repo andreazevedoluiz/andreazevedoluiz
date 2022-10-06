@@ -5,9 +5,11 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andreazevedoluiz/)
 
 
-![André's GitHub stats](https://github-readme-stats.vercel.app/api?username=andreazevedoluiz&show_icons=true&theme=radical)
+![ André Azevêdo GitHub stats](https://github-readme-stats.vercel.app/api?username=andreazevedoluiz&show_icons=true&theme=dracula)
 
-## Tecnologias que eu uso:
+[![Linguagens que eu utilizo](https://github-readme-stats.vercel.app/api/top-langs/?username=andreazevedoluiz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+## Tecnologias que eu utilizo:
 
 <div style="display: inline_block"> <br/>
     <img aling = center src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -16,8 +18,6 @@
      <img aling = center src=https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white>
     <img aling = center src= https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white>
     </div></br>
-    
-  
-    
-    
-    
+
+    Sou um estudante de programação em busca do meu primeiro emprego na área de desenvolvimento.
+
