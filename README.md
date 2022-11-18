@@ -17,6 +17,13 @@
      <img aling = center src=https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E>
      <img aling = center src=https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white>
     <img aling = center src= https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white>
+    <img aling = center src= https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white>
+    
+   
+    
+   
+
+    
     </div></br>
 
     Sou um estudante de programação em busca do meu primeiro emprego na área de desenvolvimento.
