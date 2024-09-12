@@ -24,7 +24,7 @@
    
 
     
-    </div></br>
+    
 
     Sou um estudante de programação em busca do meu primeiro emprego na área de desenvolvimento.
 
